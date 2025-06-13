@@ -1,17 +1,36 @@
-# Data-Science-for-Engineers
-Global Solution 2025_1 - Data Science for Engineers
+# 📚 Data Science for Engineers - Estatística com R
 
-Proposta do projeto
-Analisar os dados, utilizando o R Studio, da velocidade do vento (rajada máxima) 
-na cidade Florianópolis durante o ano de 2022.
+## 📌 Conteúdo Principal
 
-Dados de velocidade dos ventos em Florianópolis no ano de 2022 obtido através do Instituto Nacional de Meteorologia (INMET)
+### 📊 Estatística Aplicada
+- Análise descritiva
+- Inferência estatística
+- Testes de hipóteses
+- Modelos de regressão
 
-Analise feita
-- Crie um vetor com os dados obtidos no item anterior.
-- Determine a média e a mediana.
-- O primeiro e o terceiro quartis.
-- Encontre o P10 e o P90.
-- Variância.
-- Desvio-padrão.
-- Coeficiente de Variação.
+### 🔧 Data Science para Engenharia
+- Pré-processamento de dados
+- Visualização (`ggplot2`, `plotly`)
+- Modelagem preditiva
+
+### 📉 Ferramentas em R
+- `tidyverse` (`dplyr`, `tidyr`)
+- `caret` (Machine Learning)
+- `shiny` (Dashboards interativos)
+
+### ⚙️ Casos Práticos
+- Controle de qualidade
+- Simulações industriais
+- Confiabilidade de sistemas
+- Otimização de processos
+
+### 📂 Datasets e Exemplos
+- Dados reais para análise
+- Projetos práticos
+- Templates reproduzíveis
+
+## 🎯 Objetivo
+Fornecer recursos para que engenheiros possam:
+✔ Dominar técnicas estatísticas com **R** para tomada de decisão  
+✔ Integrar análise de dados em projetos de engenharia  
+✔ Desenvolver modelos preditivos e otimizações baseadas em dados  
