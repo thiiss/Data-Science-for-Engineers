@@ -29,7 +29,7 @@
 - Projetos práticos
 - Templates reproduzíveis
 
-## 🎯 Objetivo
+### 🎯 Objetivo
 Fornecer recursos para que engenheiros possam:
 ✔ Dominar técnicas estatísticas com **R** para tomada de decisão  
 ✔ Integrar análise de dados em projetos de engenharia  
